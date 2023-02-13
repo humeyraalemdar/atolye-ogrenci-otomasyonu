@@ -1,0 +1,1 @@
+# atolye-ogrenci-otomasyonu
